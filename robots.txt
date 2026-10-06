@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sararidigital.com.ng/sitemap.xml
